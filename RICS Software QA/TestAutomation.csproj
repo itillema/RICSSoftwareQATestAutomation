@@ -15,14 +15,33 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="mPOS_Testing\" />
+    <Folder Include="mPOS_Testing\GiftCard_Testing\" />
+    <Folder Include="mPOS_Testing\EnhancedCustomerProfile_Testing\" />
+    <Folder Include="mPOS_Testing\DeviceSettings_Testing\" />
+    <Folder Include="mPOS_Testing\Hardware_Testing\" />
+    <Folder Include="mPOS_Testing\ManagerActions_Testing\" />
+    <Folder Include="mPOS_Testing\EdgeCase_Testing\" />
+    <Folder Include="mPOS_Testing\Transactions_Testing\" />
+    <Folder Include="mPOS_Testing\ShoppingCart_Testing\" />
+    <Folder Include="mPOS_Testing\TransactionHistory_Testing\" />
+    <Folder Include="mPOS_Testing\ProductSearch_Testing\" />
+    <Folder Include="mPOS_Testing\SuspendReclaim_Testing\" />
+    <Folder Include="mPOS_Testing\Rewards_Testing\" />
+    <Folder Include="mPOS_Testing\UserPIN_Testing\" />
+    <Folder Include="mPOS_Testing\SignIn_Testing\" />
+    <Folder Include="mPOS_Testing\Startup_Testing\" />
+    <Folder Include="Portal_Testing\Login_Testing\" />
+    <Folder Include="Portal_Testing\Location_Testing\" />
+    <Folder Include="Portal_Testing\GlobalTenant_AllLocations_Testing\" />
+    <Folder Include="Portal_Testing\GlobalTenant_AllDevices_Testing\" />
+    <Folder Include="Portal_Testing\GlobalTenant_Settings_Testing\" />
+    <Folder Include="Portal_Testing\GlobalTenant_AllUsers_Testing\" />
     <Folder Include="R9_Reporting_Testing\" />
     <Folder Include="Support_Utility_Testing\" />
     <Folder Include="Secure_API_Testing\" />
     <Folder Include="RICS_API_Testing\" />
     <Folder Include="R9_Backoffice_Testing\" />
     <Folder Include="R9_POS_Testing\" />
-    <Folder Include="Portal_Testing\" />
   </ItemGroup>
 
 </Project>

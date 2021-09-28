@@ -4,7 +4,7 @@ namespace RICS_Software_QA
 {
     public class Tests
     {
-        // AAA ("Triple A paradigm"):
+        // AAA ("Triple A paradigm"): Integrated and End-to-End Testing:
         // Arrange (Setup)  Everything you'll need to setup the test
         // Act   (Test)  Running the method or making an action
         // Assert (Test)  Checking for a value to validate and pass the test
