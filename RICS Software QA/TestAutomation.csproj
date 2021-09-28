@@ -30,7 +30,6 @@
     <Folder Include="mPOS_Testing\UserPIN_Testing\" />
     <Folder Include="mPOS_Testing\SignIn_Testing\" />
     <Folder Include="mPOS_Testing\Startup_Testing\" />
-    <Folder Include="Portal_Testing\Login_Testing\" />
     <Folder Include="Portal_Testing\Location_Testing\" />
     <Folder Include="Portal_Testing\GlobalTenant_AllLocations_Testing\" />
     <Folder Include="Portal_Testing\GlobalTenant_AllDevices_Testing\" />
