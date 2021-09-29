@@ -9,11 +9,13 @@ namespace RICS_Software_QA
         // Act   (Test)  Running the method or making an action
         // Assert (Test)  Checking for a value to validate and pass the test
 
+        //Hooks in NUnit
         [SetUp]
         public void Setup()
         {
 
         }
+
 
         [Test]
         public void Test1() //Test case names should exaplain what you're testing and what should happen... e.g.: CreateATitle_ShouldSetTitle(){}
