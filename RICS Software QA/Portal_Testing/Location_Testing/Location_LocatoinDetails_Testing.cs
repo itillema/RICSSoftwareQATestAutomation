@@ -16,7 +16,7 @@ namespace RICS_Software_QA
             webDriver.Navigate().GoToUrl("https://portalqa.rics.io/#/login");
             //Enter Username and Password
             webDriver.FindElement(By.Name("username")).SendKeys("isaac@qa.com");  //Broken
-            webDriver.FindElement(By.Name("password")).SendKeys("Guest12345!");
+            webDriver.FindElement(By.Name("password")).SendKeys("Guest12345!");   //Broken
             webDriver.FindElement(By.Id("loginButton")).Click();
         }
 
